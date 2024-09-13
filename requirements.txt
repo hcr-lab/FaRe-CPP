@@ -2,3 +2,9 @@ numpy
 scipy
 matplotlib
 opencv-python
+pyyaml
+rosdep
+
+# ROS Packages (These should be installed through ROS package management tools)
+# Install using rosdep
+# rosdep install --from-paths src --ignore-src -r -y
