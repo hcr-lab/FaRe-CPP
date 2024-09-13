@@ -15,6 +15,7 @@ pgm_filename = config['pgm_filename']
 yaml_filename = config['yaml_filename']
 map_data = map_generator.load_yaml(yaml_filename)
 waypoints_path = os.path.join(output_dir,'wp_ori_data.txt')
+
 def send_goal(x, y, theta):
     client = actionlib.SimpleActionClient('move_base', MoveBaseAction)
     client.wait_for_server()
@@ -58,8 +59,6 @@ def patrol():
 
     # Convert waypoints from grid cells to world coordinates
     world_waypoints = grid_to_world_coords(wp, map_data)
-
-    # Iterate over waypoints and orientations
     try:
         for i, (x, y) in enumerate(world_waypoints):
             rospy.loginfo(f"Sending goal {i+1}/{len(world_waypoints)}: ({x}, {y}, {ori[i]})")
