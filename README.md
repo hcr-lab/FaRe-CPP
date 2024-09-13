@@ -50,11 +50,11 @@ To execute patrols in the simulation, please make sure ROS and Gazebo are instal
 4. Launch TurtleBot 3 in the world: In a second terminal, make sure you have set the TurtleBot 3 model and source the environment again
    ```bash
    export TURTLEBOT3_MODEL=burger  
-   source /opt/ros/foxy/setup.bash
+   source /opt/ros/noetic/setup.bash
    ```
 5. Then, spawn TurtleBot 3 in the world:
    ```bash
-   ros2 launch turtlebot3_gazebo turtlebot3_world.launch.py
+   roslaunch turtlebot3_gazebo turtlebot3_world.launch
    ```
 6. Run the Patrol Simulation: before executing this step, ensure you first run the FaRe algorithm on the same environment map and see if the optimized waypoints are saved.
    ```bash
