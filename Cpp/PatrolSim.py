@@ -8,7 +8,7 @@ from nav_msgs.msg import OccupancyGrid
 import yaml
 import os
 from config import config
-from FireBotMAP import Map_generator
+from MAP import Map_generator
 map_generator = Map_generator()
 output_dir = config['output_dir']
 pgm_filename = config['pgm_filename']
