@@ -1,4 +1,4 @@
-from FireBotMAP import Map_generator
+from MAP import Map_generator
 
 map_generator = Map_generator()
 
