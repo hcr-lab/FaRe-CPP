@@ -38,10 +38,6 @@ config = {
 
 }
 
-
-
-
-
 if not os.path.exists(config["output_dir"]):
 
     os.makedirs(config["output_dir"])
