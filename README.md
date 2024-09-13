@@ -34,9 +34,9 @@ After cloning, update the file paths in config.py to point to where your environ
 
 This will process the environment Occupancy grid map and save the waypoints in the output directory. These waypoints will be used for navigation in the simulation.
 
-##Online Navigation(Patrolling)
+## Online Navigation(Patrolling)
 To execute patrols in the simulation, please make sure ROS and Gazebo are installed and follow these steps.
-##Steps for Online Navigation
+## Steps for Online Navigation
 1. ros-noetic and Gazebo simulation installed and working
 2. Follow the procedure  on how to set up the simulation environment from here - [AWS RoboMaker Small House World](https://github.com/aws-robotics/aws-robomaker-small-house-world)  or - [Dynamic Logistics Warehouse](https://github.com/belal-ibrahim/dynamic_logistics_warehouse) or you can use environment of your choice.
 3. launch world 
