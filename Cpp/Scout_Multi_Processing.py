@@ -6,7 +6,7 @@ import time
 from IPython.display import clear_output
 from scipy.spatial.distance import pdist, squareform
 from itertools import permutations
-from FireBotMAP import Map_generator
+from MAP import Map_generator
 import multiprocessing
 from Multi_Processing import process_frontier
 import random
