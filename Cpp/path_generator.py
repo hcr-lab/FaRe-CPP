@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import yaml
 from PIL import Image
-from FireBot_path_optimizer import WayPointOptimizer
+from path_optimizer import WayPointOptimizer
 
 import csv
 
