@@ -50,9 +50,6 @@ class Scout:
                 best_angle = base_angle
 
         return best_grid, best_angle*(math.pi / 180)
-    
-    
-        
 
     def find_frontier_cells(self,grid_map, explored_value, unexplored_value, obstacle_value=0, buffer_distance=4):
         rows, cols = grid_map.shape
@@ -79,9 +76,6 @@ class Scout:
                             frontier_cells.append((i, j))
 
         return frontier_cells
-
-    
-    
 class Exploration:
     def __init__(self, grid_map, surveillance_range, free_cells, state, yaml_data):
         self.grid_map = grid_map
@@ -161,7 +155,6 @@ class Exploration:
                 min_distance = current_distance
                 min_path = current_path
 
-        
         min_path_points = [points[i] for i in min_path]
 
       
