@@ -18,7 +18,7 @@ def main():
     output_dir = config['output_dir']
     pgm_filename = config['pgm_filename']
     yaml_filename = config['yaml_filename']
-
+    file_path = os.path.join(output_dir,'wp_ori_data.txt') #output file path to save optimized waypoints
     grid_map = map_generator.load_pgm(pgm_filename)
     yaml_data = map_generator.load_yaml(yaml_filename)
     
@@ -44,16 +44,13 @@ def main():
         
         
         #map_generator.plot_rgb_map(graph, goal, title, frontiers =True) #save_fig = iteration )
-    file_path = os.path.join(output_dir,'wp_ori_data.txt')
-
-    # Writing to the file
-    with open(file_path, 'w') as f:
-        f.write(f"wp = {wp}\n")
-        f.write(f"ori = {ori}\n")
-    t_c_rot = sum(ori) # total cummulative rotations
+    t_c_rot = sum(ori) # total cumulative rotations
     resolution = yaml_data['resolution'] # resolution of grid cell
-    optimizer = WayPointOptimizer(wp, 0.3, 5) # initializes way point optimization object
+    optimizer = WayPointOptimizer(wp, 0.3, 5) # initializes waypoint optimization object
     best_wp =optimizer.run() #optimizes waypoints
+    with open(file_path, 'w') as f:
+        f.write(f"wp = {best_wp}\n")
+        f.write(f"ori = {ori}\n")
     metrics = calculate_and_plot_path(grid_map,wp,best_wp,resolution,t_c_rot,output_dir)
     print(metrics)
     
