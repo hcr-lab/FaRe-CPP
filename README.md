@@ -4,7 +4,7 @@ steps on how to use algorithm
 
   
 ```bash
-   git clone https://github.com/hcr-lab/FaRe-CPP.git
+git clone https://github.com/hcr-lab/FaRe-CPP.git
 
 
 cd FaRE-CPP
