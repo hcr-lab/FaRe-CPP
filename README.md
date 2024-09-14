@@ -1,7 +1,7 @@
-# FaRe-CPP: Fast Revisit Coverage Path Planning for Autonomous Mobile Patrol Robots Using Long-Range Vision Information
+# FaRe-CPP: Fast Revisit Coverage Path Planning for Autonomous Mobile Patrol Robots Using Long-Range Sensor Information
 
 ## Overview
-**FaRe-CPP** is an algorithm designed for efficient revisit coverage path planning for autonomous mobile patrol robots using long-range vision information. This repository provides the tools for generating optimized patrol paths and executing them in simulation environments such as **AWS RoboMaker** and the **Dynamic Logistics Warehouse**.
+**FaRe-CPP** is an algorithm designed for efficient revisit coverage path planning for autonomous mobile patrol robots using long-range sensor information. This repository provides the tools for generating optimized patrol paths and executing them in simulation environments such as **AWS RoboMaker** and the **Dynamic Logistics Warehouse**.
 
 ## Getting Started
 
