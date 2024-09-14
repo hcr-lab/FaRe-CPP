@@ -1,4 +1,4 @@
-from BotMAP import Map_generator
+from MAP import Map_generator
 import yaml
 from Scout_Multi_Processing import Exploration
 from path_generator import calculate_and_plot_path
