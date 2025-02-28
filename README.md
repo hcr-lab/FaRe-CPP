@@ -16,7 +16,7 @@ Before running the FaRe-CPP algorithm, download and set up one of the following 
 Clone this repository using the following command:
 
 ```bash
-git clone https://github.com/Srinikstudent/FaRe_CPP.git
+git clone https://github.com/hcr-lab/FaRe-CPP.git
 ```
 After cloning, update the file paths in config.py to point to where your environment map files (.pgm and .yaml) are stored. Adjust the parameters to match your robot's sensor capabilities.
 
