@@ -1,0 +1,355 @@
+Total free space: 157 sq.mtrs
+range: 28
+steps: 1 goal : ((350, 67), 5.445427266222308)   e_area : 1 wp: 1 e_time: 0 seconds t_time = 0  
+steps: 2 goal : ((323, 72), 5.445427266222308)   e_area : 2 wp: 6 e_time: 1 seconds t_time = 1  
+steps: 3 goal : ((317, 96), 5.445427266222308)   e_area : 3 wp: 12 e_time: 1 seconds t_time = 2  
+steps: 4 goal : ((311, 120), 5.445427266222308)   e_area : 4 wp: 18 e_time: 1 seconds t_time = 3  
+steps: 5 goal : ((316, 125), 0.8377580409572782)   e_area : 5 wp: 24 e_time: 1 seconds t_time = 4  
+steps: 6 goal : ((321, 147), 5.445427266222308)   e_area : 7 wp: 30 e_time: 1 seconds t_time = 5  
+steps: 7 goal : ((297, 97), 3.5604716740684323)   e_area : 8 wp: 36 e_time: 1 seconds t_time = 7  
+steps: 8 goal : ((300, 159), 5.445427266222308)   e_area : 9 wp: 39 e_time: 1 seconds t_time = 8  
+steps: 9 goal : ((287, 180), 5.445427266222308)   e_area : 10 wp: 43 e_time: 1 seconds t_time = 9  
+steps: 10 goal : ((262, 184), 3.9793506945470716)   e_area : 11 wp: 50 e_time: 1 seconds t_time = 10  
+steps: 11 goal : ((274, 201), 5.445427266222308)   e_area : 12 wp: 56 e_time: 1 seconds t_time = 11  
+steps: 12 goal : ((240, 173), 3.9793506945470716)   e_area : 14 wp: 63 e_time: 1 seconds t_time = 13  
+steps: 13 goal : ((234, 150), 2.303834612632515)   e_area : 15 wp: 69 e_time: 1 seconds t_time = 14  
+steps: 14 goal : ((243, 125), 2.303834612632515)   e_area : 16 wp: 75 e_time: 1 seconds t_time = 15  
+steps: 15 goal : ((252, 212), 5.445427266222308)   e_area : 17 wp: 81 e_time: 1 seconds t_time = 16  
+steps: 16 goal : ((246, 107), 3.9793506945470716)   e_area : 18 wp: 87 e_time: 1 seconds t_time = 17  
+steps: 17 goal : ((243, 89), 2.303834612632515)   e_area : 20 wp: 92 e_time: 1 seconds t_time = 19  
+steps: 18 goal : ((225, 217), 5.445427266222308)   e_area : 21 wp: 97 e_time: 1 seconds t_time = 20  
+steps: 19 goal : ((223, 234), 0.8377580409572782)   e_area : 22 wp: 103 e_time: 1 seconds t_time = 21  
+steps: 20 goal : ((218, 242), 5.445427266222308)   e_area : 23 wp: 108 e_time: 1 seconds t_time = 22  
+steps: 21 goal : ((195, 245), 3.9793506945470716)   e_area : 24 wp: 114 e_time: 1 seconds t_time = 24  
+steps: 22 goal : ((214, 263), 0.8377580409572782)   e_area : 26 wp: 120 e_time: 1 seconds t_time = 25  
+steps: 23 goal : ((240, 267), 2.303834612632515)   e_area : 27 wp: 126 e_time: 1 seconds t_time = 26  
+steps: 24 goal : ((234, 276), 0.8377580409572782)   e_area : 28 wp: 133 e_time: 1 seconds t_time = 28  
+steps: 25 goal : ((200, 257), 5.445427266222308)   e_area : 29 wp: 139 e_time: 1 seconds t_time = 29  
+steps: 26 goal : ((177, 266), 5.445427266222308)   e_area : 30 wp: 145 e_time: 1 seconds t_time = 30  
+steps: 27 goal : ((235, 291), 5.445427266222308)   e_area : 32 wp: 150 e_time: 1 seconds t_time = 32  
+steps: 28 goal : ((219, 308), 5.445427266222308)   e_area : 33 wp: 155 e_time: 1 seconds t_time = 33  
+steps: 29 goal : ((221, 319), 0.8377580409572782)   e_area : 34 wp: 160 e_time: 1 seconds t_time = 34  
+steps: 30 goal : ((247, 323), 2.303834612632515)   e_area : 35 wp: 166 e_time: 1 seconds t_time = 36  
+steps: 31 goal : ((243, 329), 0.8377580409572782)   e_area : 36 wp: 173 e_time: 1 seconds t_time = 37  
+steps: 32 goal : ((299, 174), 0.8377580409572782)   e_area : 38 wp: 177 e_time: 1 seconds t_time = 39  
+steps: 33 goal : ((228, 344), 5.445427266222308)   e_area : 39 wp: 181 e_time: 1 seconds t_time = 40  
+steps: 34 goal : ((281, 204), 0.8377580409572782)   e_area : 40 wp: 186 e_time: 1 seconds t_time = 41  
+steps: 35 goal : ((305, 212), 0.8377580409572782)   e_area : 41 wp: 192 e_time: 1 seconds t_time = 43  
+steps: 36 goal : ((325, 178), 2.303834612632515)   e_area : 42 wp: 197 e_time: 1 seconds t_time = 44  
+steps: 37 goal : ((331, 218), 0.8377580409572782)   e_area : 44 wp: 205 e_time: 1 seconds t_time = 46  
+steps: 38 goal : ((335, 239), 5.445427266222308)   e_area : 45 wp: 211 e_time: 1 seconds t_time = 47  
+steps: 39 goal : ((272, 319), 0.8377580409572782)   e_area : 46 wp: 216 e_time: 1 seconds t_time = 49  
+steps: 40 goal : ((259, 346), 0.8377580409572782)   e_area : 47 wp: 223 e_time: 1 seconds t_time = 50  
+steps: 41 goal : ((335, 154), 2.303834612632515)   e_area : 48 wp: 228 e_time: 1 seconds t_time = 52  
+steps: 42 goal : ((287, 318), 2.303834612632515)   e_area : 50 wp: 232 e_time: 1 seconds t_time = 53  
+steps: 43 goal : ((304, 302), 2.303834612632515)   e_area : 51 wp: 238 e_time: 1 seconds t_time = 55  
+steps: 44 goal : ((292, 332), 0.8377580409572782)   e_area : 52 wp: 243 e_time: 1 seconds t_time = 56  
+steps: 45 goal : ((279, 359), 0.8377580409572782)   e_area : 53 wp: 249 e_time: 1 seconds t_time = 58  
+steps: 46 goal : ((330, 296), 0.8377580409572782)   e_area : 54 wp: 255 e_time: 1 seconds t_time = 60  
+steps: 47 goal : ((286, 384), 5.445427266222308)   e_area : 56 wp: 262 e_time: 1 seconds t_time = 61  
+steps: 48 goal : ((332, 313), 5.445427266222308)   e_area : 57 wp: 268 e_time: 1 seconds t_time = 63  
+steps: 49 goal : ((307, 350), 0.8377580409572782)   e_area : 58 wp: 273 e_time: 1 seconds t_time = 64  
+steps: 50 goal : ((326, 364), 0.8377580409572782)   e_area : 59 wp: 279 e_time: 1 seconds t_time = 66  
+steps: 51 goal : ((332, 387), 5.445427266222308)   e_area : 60 wp: 285 e_time: 1 seconds t_time = 68  
+steps: 52 goal : ((323, 288), 2.303834612632515)   e_area : 62 wp: 291 e_time: 1 seconds t_time = 69  
+steps: 53 goal : ((263, 387), 3.9793506945470716)   e_area : 63 wp: 296 e_time: 1 seconds t_time = 71  
+steps: 54 goal : ((310, 397), 5.445427266222308)   e_area : 64 wp: 300 e_time: 1 seconds t_time = 73  
+steps: 55 goal : ((264, 394), 5.445427266222308)   e_area : 65 wp: 305 e_time: 2 seconds t_time = 76  
+steps: 56 goal : ((244, 407), 5.445427266222308)   e_area : 66 wp: 308 e_time: 1 seconds t_time = 77  
+steps: 57 goal : ((158, 280), 5.8643062867009474)   e_area : 67 wp: 314 e_time: 1 seconds t_time = 79  
+steps: 58 goal : ((218, 413), 3.9793506945470716)   e_area : 69 wp: 319 e_time: 1 seconds t_time = 81  
+steps: 59 goal : ((162, 265), 3.9793506945470716)   e_area : 70 wp: 325 e_time: 1 seconds t_time = 82  
+steps: 60 goal : ((209, 388), 3.9793506945470716)   e_area : 71 wp: 328 e_time: 1 seconds t_time = 84  
+steps: 61 goal : ((256, 148), 0.8377580409572782)   e_area : 72 wp: 332 e_time: 1 seconds t_time = 86  
+steps: 62 goal : ((182, 224), 3.9793506945470716)   e_area : 73 wp: 334 e_time: 1 seconds t_time = 88  
+steps: 63 goal : ((212, 274), 5.445427266222308)   e_area : 74 wp: 338 e_time: 1 seconds t_time = 90  
+steps: 64 goal : ((337, 127), 2.303834612632515)   e_area : 75 wp: 340 e_time: 1 seconds t_time = 92  
+steps: 65 goal : ((239, 384), 4.50294947014537)   e_area : 76 wp: 343 e_time: 1 seconds t_time = 93  
+steps: 66 goal : ((158, 221), 5.8643062867009474)   e_area : 78 wp: 345 e_time: 1 seconds t_time = 95  
+steps: 67 goal : ((219, 102), 3.9793506945470716)   e_area : 79 wp: 348 e_time: 1 seconds t_time = 97  
+steps: 68 goal : ((334, 323), 0.8377580409572782)   e_area : 80 wp: 350 e_time: 1 seconds t_time = 99  
+steps: 69 goal : ((256, 91), 0.8377580409572782)   e_area : 81 wp: 352 e_time: 1 seconds t_time = 101  
+steps: 70 goal : ((253, 269), 0.8377580409572782)   e_area : 82 wp: 353 e_time: 1 seconds t_time = 102  
+steps: 71 goal : ((252, 364), 3.9793506945470716)   e_area : 83 wp: 354 e_time: 1 seconds t_time = 104  
+steps: 72 goal : ((223, 419), 5.445427266222308)   e_area : 84 wp: 355 e_time: 1 seconds t_time = 106  
+steps: 73 goal : ((237, 177), 5.445427266222308)   e_area : 85 wp: 357 e_time: 1 seconds t_time = 108  
+steps: 74 goal : ((154, 304), 5.8643062867009474)   e_area : 86 wp: 359 e_time: 1 seconds t_time = 110  
+steps: 75 goal : ((217, 178), 3.9793506945470716)   e_area : 87 wp: 361 e_time: 1 seconds t_time = 111  
+steps: 76 goal : ((186, 220), 2.303834612632515)   e_area : 88 wp: 364 e_time: 1 seconds t_time = 113  
+steps: 77 goal : ((268, 311), 2.303834612632515)   e_area : 89 wp: 364 e_time: 1 seconds t_time = 115  
+steps: 78 goal : ((291, 381), 1.5707963267948966)   e_area : 90 wp: 365 e_time: 1 seconds t_time = 117  
+steps: 79 goal : ((321, 89), 0.8377580409572782)   e_area : 91 wp: 366 e_time: 1 seconds t_time = 119  
+steps: 80 goal : ((256, 127), 0.8377580409572782)   e_area : 92 wp: 367 e_time: 1 seconds t_time = 121  
+steps: 81 goal : ((157, 331), 1.5707963267948966)   e_area : 93 wp: 367 e_time: 1 seconds t_time = 122  
+steps: 82 goal : ((164, 292), 0.8377580409572782)   e_area : 94 wp: 370 e_time: 1 seconds t_time = 124  
+steps: 83 goal : ((267, 226), 5.445427266222308)   e_area : 95 wp: 372 e_time: 1 seconds t_time = 126  
+steps: 84 goal : ((266, 261), 1.5707963267948966)   e_area : 96 wp: 372 e_time: 1 seconds t_time = 128  
+steps: 85 goal : ((256, 189), 5.445427266222308)   e_area : 97 wp: 374 e_time: 1 seconds t_time = 130  
+steps: 86 goal : ((334, 355), 1.1519173063162575)   e_area : 98 wp: 373 e_time: 1 seconds t_time = 132  
+steps: 87 goal : ((331, 183), 1.1519173063162575)   e_area : 99 wp: 373 e_time: 1 seconds t_time = 133  
+steps: 88 goal : ((265, 78), 1.9896753472735358)   e_area : 100 wp: 375 e_time: 1 seconds t_time = 135  
+steps: 89 goal : ((201, 309), 3.9793506945470716)   e_area : 101 wp: 376 e_time: 1 seconds t_time = 137  
+steps: 90 goal : ((334, 398), 5.8643062867009474)   e_area : 102 wp: 375 e_time: 1 seconds t_time = 139  
+steps: 91 goal : ((213, 362), 4.293509959906051)   e_area : 103 wp: 377 e_time: 1 seconds t_time = 141  
+steps: 92 goal : ((350, 81), 0.20943951023931956)   e_area : 104 wp: 376 e_time: 1 seconds t_time = 142  
+steps: 93 goal : ((235, 432), 1.9896753472735358)   e_area : 105 wp: 375 e_time: 1 seconds t_time = 144  
+steps: 94 goal : ((200, 412), 5.8643062867009474)   e_area : 105 wp: 373 e_time: 1 seconds t_time = 146  
+steps: 95 goal : ((219, 89), 2.303834612632515)   e_area : 106 wp: 370 e_time: 1 seconds t_time = 148  
+steps: 96 goal : ((280, 408), 0.4188790204786391)   e_area : 107 wp: 370 e_time: 1 seconds t_time = 150  
+steps: 97 goal : ((295, 153), 3.5604716740684323)   e_area : 108 wp: 371 e_time: 1 seconds t_time = 151  
+steps: 98 goal : ((293, 121), 3.5604716740684323)   e_area : 109 wp: 370 e_time: 1 seconds t_time = 153  
+steps: 99 goal : ((335, 351), 3.9793506945470716)   e_area : 110 wp: 368 e_time: 1 seconds t_time = 155  
+steps: 100 goal : ((218, 341), 3.9793506945470716)   e_area : 110 wp: 363 e_time: 1 seconds t_time = 157  
+steps: 101 goal : ((211, 77), 4.293509959906051)   e_area : 111 wp: 362 e_time: 1 seconds t_time = 159  
+steps: 102 goal : ((188, 255), 4.293509959906051)   e_area : 112 wp: 366 e_time: 1 seconds t_time = 161  
+steps: 103 goal : ((165, 208), 5.1312680008633285)   e_area : 113 wp: 363 e_time: 1 seconds t_time = 163  
+steps: 104 goal : ((337, 269), 2.9321531433504737)   e_area : 114 wp: 362 e_time: 1 seconds t_time = 165  
+steps: 105 goal : ((354, 179), 3.141592653589793)   e_area : 114 wp: 361 e_time: 1 seconds t_time = 167  
+steps: 106 goal : ((322, 259), 5.654866776461628)   e_area : 115 wp: 359 e_time: 1 seconds t_time = 168  
+steps: 107 goal : ((211, 213), 1.9896753472735358)   e_area : 116 wp: 357 e_time: 1 seconds t_time = 170  
+steps: 108 goal : ((289, 190), 0.8377580409572782)   e_area : 117 wp: 356 e_time: 1 seconds t_time = 172  
+steps: 109 goal : ((320, 211), 1.5707963267948966)   e_area : 117 wp: 354 e_time: 1 seconds t_time = 174  
+steps: 110 goal : ((278, 213), 0.4188790204786391)   e_area : 118 wp: 353 e_time: 1 seconds t_time = 176  
+steps: 111 goal : ((238, 319), 2.722713633111154)   e_area : 119 wp: 353 e_time: 1 seconds t_time = 178  
+steps: 112 goal : ((160, 339), 4.084070449666731)   e_area : 120 wp: 349 e_time: 1 seconds t_time = 180  
+steps: 113 goal : ((224, 156), 4.50294947014537)   e_area : 120 wp: 347 e_time: 1 seconds t_time = 182  
+steps: 114 goal : ((237, 131), 3.4557519189487724)   e_area : 121 wp: 346 e_time: 1 seconds t_time = 184  
+steps: 115 goal : ((220, 402), 1.9896753472735358)   e_area : 121 wp: 343 e_time: 1 seconds t_time = 185  
+steps: 116 goal : ((334, 126), 3.9793506945470716)   e_area : 122 wp: 341 e_time: 1 seconds t_time = 187  
+steps: 117 goal : ((148, 266), 5.969026041820607)   e_area : 123 wp: 337 e_time: 1 seconds t_time = 189  
+steps: 118 goal : ((258, 365), 0.8377580409572782)   e_area : 123 wp: 335 e_time: 1 seconds t_time = 191  
+steps: 119 goal : ((303, 301), 3.5604716740684323)   e_area : 124 wp: 330 e_time: 1 seconds t_time = 192  
+steps: 120 goal : ((290, 342), 4.71238898038469)   e_area : 124 wp: 328 e_time: 1 seconds t_time = 194  
+steps: 121 goal : ((180, 309), 0.4188790204786391)   e_area : 125 wp: 324 e_time: 1 seconds t_time = 196  
+steps: 122 goal : ((183, 293), 3.246312408709453)   e_area : 125 wp: 323 e_time: 1 seconds t_time = 198  
+steps: 123 goal : ((197, 390), 5.969026041820607)   e_area : 126 wp: 318 e_time: 1 seconds t_time = 199  
+steps: 124 goal : ((311, 70), 4.50294947014537)   e_area : 127 wp: 316 e_time: 1 seconds t_time = 201  
+steps: 125 goal : ((337, 291), 1.1519173063162575)   e_area : 127 wp: 313 e_time: 1 seconds t_time = 203  
+steps: 126 goal : ((315, 196), 2.303834612632515)   e_area : 128 wp: 311 e_time: 1 seconds t_time = 204  
+steps: 127 goal : ((211, 237), 3.9793506945470716)   e_area : 128 wp: 306 e_time: 1 seconds t_time = 206  
+steps: 128 goal : ((181, 333), 1.1519173063162575)   e_area : 129 wp: 302 e_time: 1 seconds t_time = 208  
+steps: 129 goal : ((318, 335), 3.9793506945470716)   e_area : 129 wp: 301 e_time: 1 seconds t_time = 209  
+steps: 130 goal : ((345, 378), 6.178465552059927)   e_area : 130 wp: 295 e_time: 1 seconds t_time = 211  
+steps: 131 goal : ((273, 107), 0.10471975511965978)   e_area : 130 wp: 294 e_time: 1 seconds t_time = 213  
+steps: 132 goal : ((266, 180), 2.5132741228718345)   e_area : 131 wp: 291 e_time: 1 seconds t_time = 214  
+steps: 133 goal : ((247, 69), 4.71238898038469)   e_area : 131 wp: 288 e_time: 1 seconds t_time = 216  
+steps: 134 goal : ((348, 218), 0.4188790204786391)   e_area : 132 wp: 286 e_time: 1 seconds t_time = 218  
+steps: 135 goal : ((328, 227), 5.445427266222308)   e_area : 132 wp: 285 e_time: 1 seconds t_time = 219  
+steps: 136 goal : ((255, 149), 5.445427266222308)   e_area : 133 wp: 281 e_time: 1 seconds t_time = 221  
+steps: 137 goal : ((349, 311), 0.4188790204786391)   e_area : 133 wp: 276 e_time: 1 seconds t_time = 223  
+steps: 138 goal : ((273, 405), 5.445427266222308)   e_area : 134 wp: 274 e_time: 1 seconds t_time = 224  
+steps: 139 goal : ((251, 299), 1.9896753472735358)   e_area : 134 wp: 271 e_time: 1 seconds t_time = 226  
+steps: 140 goal : ((324, 85), 3.246312408709453)   e_area : 134 wp: 268 e_time: 1 seconds t_time = 228  
+steps: 141 goal : ((240, 254), 4.817108735504349)   e_area : 135 wp: 264 e_time: 1 seconds t_time = 230  
+steps: 142 goal : ((315, 403), 5.8643062867009474)   e_area : 135 wp: 258 e_time: 1 seconds t_time = 231  
+steps: 143 goal : ((302, 370), 3.5604716740684323)   e_area : 136 wp: 255 e_time: 1 seconds t_time = 233  
+steps: 144 goal : ((309, 308), 1.9896753472735358)   e_area : 136 wp: 250 e_time: 1 seconds t_time = 235  
+steps: 145 goal : ((355, 126), 0.10471975511965978)   e_area : 136 wp: 244 e_time: 1 seconds t_time = 236  
+steps: 146 goal : ((325, 154), 5.8643062867009474)   e_area : 137 wp: 242 e_time: 1 seconds t_time = 238  
+steps: 147 goal : ((177, 230), 5.445427266222308)   e_area : 137 wp: 237 e_time: 1 seconds t_time = 239  
+steps: 148 goal : ((305, 369), 1.0471975511965976)   e_area : 138 wp: 235 e_time: 1 seconds t_time = 241  
+steps: 149 goal : ((282, 405), 2.303834612632515)   e_area : 138 wp: 231 e_time: 1 seconds t_time = 243  
+steps: 150 goal : ((352, 80), 2.722713633111154)   e_area : 138 wp: 224 e_time: 1 seconds t_time = 244  
+steps: 151 goal : ((211, 272), 0.4188790204786391)   e_area : 139 wp: 222 e_time: 1 seconds t_time = 246  
+steps: 152 goal : ((341, 403), 6.178465552059927)   e_area : 139 wp: 217 e_time: 1 seconds t_time = 247  
+steps: 153 goal : ((326, 152), 3.9793506945470716)   e_area : 139 wp: 215 e_time: 1 seconds t_time = 249  
+steps: 154 goal : ((230, 371), 0.6283185307179586)   e_area : 140 wp: 210 e_time: 1 seconds t_time = 251  
+steps: 155 goal : ((192, 82), 1.7802358370342162)   e_area : 140 wp: 209 e_time: 1 seconds t_time = 252  
+steps: 156 goal : ((214, 382), 3.141592653589793)   e_area : 140 wp: 207 e_time: 1 seconds t_time = 254  
+steps: 157 goal : ((221, 332), 0.8377580409572782)   e_area : 141 wp: 205 e_time: 1 seconds t_time = 255  
+steps: 158 goal : ((345, 378), 2.303834612632515)   e_area : 141 wp: 200 e_time: 1 seconds t_time = 257  
+steps: 159 goal : ((261, 265), 3.036872898470133)   e_area : 141 wp: 197 e_time: 1 seconds t_time = 259  
+steps: 160 goal : ((271, 287), 1.8849555921538759)   e_area : 142 wp: 192 e_time: 1 seconds t_time = 260  
+steps: 161 goal : ((242, 188), 1.361356816555577)   e_area : 142 wp: 191 e_time: 1 seconds t_time = 262  
+steps: 162 goal : ((212, 79), 2.722713633111154)   e_area : 142 wp: 187 e_time: 1 seconds t_time = 263  
+steps: 163 goal : ((267, 341), 3.246312408709453)   e_area : 142 wp: 186 e_time: 1 seconds t_time = 265  
+steps: 164 goal : ((224, 420), 0.6283185307179586)   e_area : 143 wp: 181 e_time: 1 seconds t_time = 266  
+steps: 165 goal : ((302, 220), 2.303834612632515)   e_area : 143 wp: 179 e_time: 1 seconds t_time = 268  
+steps: 166 goal : ((348, 218), 2.9321531433504737)   e_area : 143 wp: 176 e_time: 1 seconds t_time = 269  
+steps: 167 goal : ((299, 219), 0.0)   e_area : 143 wp: 174 e_time: 1 seconds t_time = 271  
+steps: 168 goal : ((346, 176), 0.6283185307179586)   e_area : 144 wp: 172 e_time: 1 seconds t_time = 272  
+steps: 169 goal : ((340, 103), 1.1519173063162575)   e_area : 144 wp: 170 e_time: 1 seconds t_time = 274  
+steps: 170 goal : ((220, 193), 4.817108735504349)   e_area : 144 wp: 168 e_time: 1 seconds t_time = 275  
+steps: 171 goal : ((163, 244), 4.60766922526503)   e_area : 144 wp: 167 e_time: 1 seconds t_time = 277  
+steps: 172 goal : ((241, 209), 5.654866776461628)   e_area : 145 wp: 165 e_time: 1 seconds t_time = 278  
+steps: 173 goal : ((262, 75), 0.8377580409572782)   e_area : 145 wp: 162 e_time: 1 seconds t_time = 280  
+steps: 174 goal : ((291, 429), 5.026548245743669)   e_area : 145 wp: 159 e_time: 1 seconds t_time = 281  
+steps: 175 goal : ((288, 298), 3.351032163829113)   e_area : 145 wp: 158 e_time: 1 seconds t_time = 283  
+Iteration 1 - Goal: (350, 67)
+Iteration 2 - Goal: (323, 72)
+Iteration 3 - Goal: (317, 96)
+Iteration 4 - Goal: (311, 120)
+Iteration 5 - Goal: (316, 125)
+Iteration 6 - Goal: (321, 147)
+Iteration 7 - Goal: (297, 97)
+Iteration 8 - Goal: (300, 159)
+Iteration 9 - Goal: (287, 180)
+Iteration 10 - Goal: (262, 184)
+Iteration 11 - Goal: (274, 201)
+Iteration 12 - Goal: (240, 173)
+Iteration 13 - Goal: (234, 150)
+Iteration 14 - Goal: (243, 125)
+Iteration 15 - Goal: (252, 212)
+Iteration 16 - Goal: (246, 107)
+Iteration 17 - Goal: (243, 89)
+Iteration 18 - Goal: (225, 217)
+Iteration 19 - Goal: (223, 234)
+Iteration 20 - Goal: (218, 242)
+Iteration 21 - Goal: (195, 245)
+Iteration 22 - Goal: (214, 263)
+Iteration 23 - Goal: (240, 267)
+Iteration 24 - Goal: (234, 276)
+Iteration 25 - Goal: (200, 257)
+Iteration 26 - Goal: (177, 266)
+Iteration 27 - Goal: (235, 291)
+Iteration 28 - Goal: (219, 308)
+Iteration 29 - Goal: (221, 319)
+Iteration 30 - Goal: (247, 323)
+Iteration 31 - Goal: (243, 329)
+Iteration 32 - Goal: (299, 174)
+Iteration 33 - Goal: (228, 344)
+Iteration 34 - Goal: (281, 204)
+Iteration 35 - Goal: (305, 212)
+Iteration 36 - Goal: (325, 178)
+Iteration 37 - Goal: (331, 218)
+Iteration 38 - Goal: (335, 239)
+Iteration 39 - Goal: (272, 319)
+Iteration 40 - Goal: (259, 346)
+Iteration 41 - Goal: (335, 154)
+Iteration 42 - Goal: (287, 318)
+Iteration 43 - Goal: (304, 302)
+Iteration 44 - Goal: (292, 332)
+Iteration 45 - Goal: (279, 359)
+Iteration 46 - Goal: (330, 296)
+Iteration 47 - Goal: (286, 384)
+Iteration 48 - Goal: (332, 313)
+Iteration 49 - Goal: (307, 350)
+Iteration 50 - Goal: (326, 364)
+Iteration 51 - Goal: (332, 387)
+Iteration 52 - Goal: (323, 288)
+Iteration 53 - Goal: (263, 387)
+Iteration 54 - Goal: (310, 397)
+Iteration 55 - Goal: (264, 394)
+Iteration 56 - Goal: (244, 407)
+Iteration 57 - Goal: (158, 280)
+Iteration 58 - Goal: (218, 413)
+Iteration 59 - Goal: (162, 265)
+Iteration 60 - Goal: (209, 388)
+Iteration 61 - Goal: (256, 148)
+Iteration 62 - Goal: (182, 224)
+Iteration 63 - Goal: (212, 274)
+Iteration 64 - Goal: (337, 127)
+Iteration 65 - Goal: (239, 384)
+Iteration 66 - Goal: (158, 221)
+Iteration 67 - Goal: (219, 102)
+Iteration 68 - Goal: (334, 323)
+Iteration 69 - Goal: (256, 91)
+Iteration 70 - Goal: (253, 269)
+Iteration 71 - Goal: (252, 364)
+Iteration 72 - Goal: (223, 419)
+Iteration 73 - Goal: (237, 177)
+Iteration 74 - Goal: (154, 304)
+Iteration 75 - Goal: (217, 178)
+Iteration 76 - Goal: (186, 220)
+Iteration 77 - Goal: (268, 311)
+Iteration 78 - Goal: (291, 381)
+Iteration 79 - Goal: (321, 89)
+Iteration 80 - Goal: (256, 127)
+Iteration 81 - Goal: (157, 331)
+Iteration 82 - Goal: (164, 292)
+Iteration 83 - Goal: (267, 226)
+Iteration 84 - Goal: (266, 261)
+Iteration 85 - Goal: (256, 189)
+Iteration 86 - Goal: (334, 355)
+Iteration 87 - Goal: (331, 183)
+Iteration 88 - Goal: (265, 78)
+Iteration 89 - Goal: (201, 309)
+Iteration 90 - Goal: (334, 398)
+Iteration 91 - Goal: (213, 362)
+Iteration 92 - Goal: (350, 81)
+Iteration 93 - Goal: (235, 432)
+Iteration 94 - Goal: (200, 412)
+Iteration 95 - Goal: (219, 89)
+Iteration 96 - Goal: (280, 408)
+Iteration 97 - Goal: (295, 153)
+Iteration 98 - Goal: (293, 121)
+Iteration 99 - Goal: (335, 351)
+Iteration 100 - Goal: (218, 341)
+Iteration 101 - Goal: (211, 77)
+Iteration 102 - Goal: (188, 255)
+Iteration 103 - Goal: (165, 208)
+Iteration 104 - Goal: (337, 269)
+Iteration 105 - Goal: (354, 179)
+Iteration 106 - Goal: (322, 259)
+Iteration 107 - Goal: (211, 213)
+Iteration 108 - Goal: (289, 190)
+Iteration 109 - Goal: (320, 211)
+Iteration 110 - Goal: (278, 213)
+Iteration 111 - Goal: (238, 319)
+Iteration 112 - Goal: (160, 339)
+Iteration 113 - Goal: (224, 156)
+Iteration 114 - Goal: (237, 131)
+Iteration 115 - Goal: (220, 402)
+Iteration 116 - Goal: (334, 126)
+Iteration 117 - Goal: (148, 266)
+Iteration 118 - Goal: (258, 365)
+Iteration 119 - Goal: (303, 301)
+Iteration 120 - Goal: (290, 342)
+Iteration 121 - Goal: (180, 309)
+Iteration 122 - Goal: (183, 293)
+Iteration 123 - Goal: (197, 390)
+Iteration 124 - Goal: (311, 70)
+Iteration 125 - Goal: (337, 291)
+Iteration 126 - Goal: (315, 196)
+Iteration 127 - Goal: (211, 237)
+Iteration 128 - Goal: (181, 333)
+Iteration 129 - Goal: (318, 335)
+Iteration 130 - Goal: (345, 378)
+Iteration 131 - Goal: (273, 107)
+Iteration 132 - Goal: (266, 180)
+Iteration 133 - Goal: (247, 69)
+Iteration 134 - Goal: (348, 218)
+Iteration 135 - Goal: (328, 227)
+Iteration 136 - Goal: (255, 149)
+Iteration 137 - Goal: (349, 311)
+Iteration 138 - Goal: (273, 405)
+Iteration 139 - Goal: (251, 299)
+Iteration 140 - Goal: (324, 85)
+Iteration 141 - Goal: (240, 254)
+Iteration 142 - Goal: (315, 403)
+Iteration 143 - Goal: (302, 370)
+Iteration 144 - Goal: (309, 308)
+Iteration 145 - Goal: (355, 126)
+Iteration 146 - Goal: (325, 154)
+Iteration 147 - Goal: (177, 230)
+Iteration 148 - Goal: (305, 369)
+Iteration 149 - Goal: (282, 405)
+Iteration 150 - Goal: (352, 80)
+Iteration 151 - Goal: (211, 272)
+Iteration 152 - Goal: (341, 403)
+Iteration 153 - Goal: (326, 152)
+Iteration 154 - Goal: (230, 371)
+Iteration 155 - Goal: (192, 82)
+Iteration 156 - Goal: (214, 382)
+Iteration 157 - Goal: (221, 332)
+Iteration 158 - Goal: (345, 378)
+Iteration 159 - Goal: (261, 265)
+Iteration 160 - Goal: (271, 287)
+Iteration 161 - Goal: (242, 188)
+Iteration 162 - Goal: (212, 79)
+Iteration 163 - Goal: (267, 341)
+Iteration 164 - Goal: (224, 420)
+Iteration 165 - Goal: (302, 220)
+Iteration 166 - Goal: (348, 218)
+Iteration 167 - Goal: (299, 219)
+Iteration 168 - Goal: (346, 176)
+Iteration 169 - Goal: (340, 103)
+Iteration 170 - Goal: (220, 193)
+Iteration 171 - Goal: (163, 244)
+Iteration 172 - Goal: (241, 209)
+Iteration 173 - Goal: (262, 75)
+Iteration 174 - Goal: (291, 429)
+Iteration 175 - Goal: (288, 298)
+path_length: 205.0500000000001, cummulative rotations: 255.30676298173054, revisit_time: 1174.474544195636
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+metrics:['path_length', 205.0500000000001, 'cummulative rotations', 255.30676298173054, 'revisit_time', 1174.474544195636], net_rotation : 132
