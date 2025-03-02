@@ -18,6 +18,12 @@ Clone this repository using the following command:
 ```bash
 git clone https://github.com/Srinikstudent/FaRe_CPP.git
 ```
+or for similar settings as IPA coverage path planning
+
+```bash
+git clone --branch FaRe_cpp_ipa_fov https://github.com/hcr-lab/FaRe-CPP.git
+```
+
 After cloning, update the file paths in config.py to point to where your environment map files (.pgm and .yaml) are stored. Adjust the parameters to match your robot's sensor capabilities.
 
 3. Install the required dependencies:
