@@ -18,7 +18,7 @@ Clone this repository using the following command:
 ```bash
 git clone https://github.com/Srinikstudent/FaRe_CPP.git
 ```
-or for similar settings as IPA coverage path planning
+(or) for similar settings as IPA coverage path planning
 
 ```bash
 git clone --branch FaRe_cpp_ipa_fov https://github.com/hcr-lab/FaRe-CPP.git
