@@ -97,8 +97,8 @@ def flip_array_vertically(array):
     # Flip the array vertically
     return np.flipud(array)   
     
-#map_data = load_pgm("/home/skachavarapu/home/Research_Track/house_ipa_results/map/map.pgm")
-#metadata = load_yaml("/home/skachavarapu/home/Research_Track/house_ipa_results/map/map.yaml")
+#map_data = load_pgm("path/to/map/map.pgm")
+#metadata = load_yaml("path/to/map/map.yaml")
 #map_data = rotate_array_90_degrees(map_data)
 #map_data = flip_array_vertically(map_data)
 #print(np.unique(map_data))

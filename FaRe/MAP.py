@@ -1,7 +1,10 @@
+import os
 import numpy as np
 import matplotlib.pyplot as plt
 from PIL import Image
 import yaml
+
+from config import config
 
 class Map_generator():
     def __init__(self):
@@ -34,7 +37,7 @@ class Map_generator():
             
         plt.title(title)
         if save_fig != False:
-           plt.savefig(f'/Users/sriapple/research_tarck/grid_maps/{save_fig}_iteration.png')
+           plt.savefig(os.path.join(config.get("output_dir", ""), f'{save_fig}_iteration.png'))
         plt.show()
     def plot_iterations(self,goals):
         for i in range(len(goals)):
